@@ -1,0 +1,14 @@
+#name{
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#name li{
+    width: 164px;
+    margin-right: 20px;
+    list-style: none;
+}
+#name li a{
+    cursor: pointer;
+}
